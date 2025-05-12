@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there! 👋
 
+My name is Chris and I am a graduate from Rice University with a Masters in Data Science and also a graduate from the University of Houston with a double bachelors' in Public Health and Biology along with a minor in Mathematics. I have a very strong interest in anything healthcare and tech, but even outside of that, I just love to learn! Personally, I believe there's only one thing that would limit how much one can learn, and that is themselves. Right now, I am still building and adding things to my GitHub, but feel free to reach out about anything! 😄
 <!--
 **captainkeemo/captainkeemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
