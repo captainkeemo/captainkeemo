@@ -2,7 +2,7 @@
 
 Hi, I’m Chris! I hold a Master’s in Data Science from Rice University and a double Bachelor’s in Public Health and Biology, with a minor in Mathematics, from the University of Houston. I'm passionate about the intersection of healthcare and technology—but more than anything, I just love to learn. I believe the only true limit to learning is the one we place on ourselves.
 
-I'm currently building out my GitHub portfolio, so stay tuned! Feel free to reach out if you'd like to connect or collaborate. 😄
+I'm currently building out my GitHub portfolio, so stay tuned! Feel free to reach out through my LinkedIn if you'd like to connect or collaborate. 😄
 <!--
 **captainkeemo/captainkeemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
